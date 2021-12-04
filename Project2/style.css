@@ -1,0 +1,69 @@
+body {
+    background-color: white;
+	font-family: Arial;
+    font-size: 14pt;
+}
+header {
+    font-size: 14pt;
+    color: black;
+    text-align: center;
+}
+section {
+    font-size: 14pt;
+    color: black;
+    text-align: center;
+}
+article {
+    font-size: 14pt;
+    color: black;
+    text-align: center;
+}
+p {
+    font-size: 14pt;
+    color: black;
+    text-align: center;
+}
+button {
+    margin-left: 10px;
+    border-radius: 6px;
+    box-sizing: border-box;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+}
+div.row {
+    background:white;
+    border:2px solid black;
+    margin:0 0 5px 0;
+    float:left;
+    width:75%;
+    padding:6px 0;
+}
+div.row label {
+    float:left;
+    display:block;
+    width:6em;
+    font-weight:bold;
+    padding:0 6px;
+}
+div.row label:hover {
+    background:white;
+    cursor:pointer;
+}
+div.row fieldset {
+    border:1px solid white;
+    margin:0 6px;
+}
+div.row fieldset span {
+    display:block;
+}
+div.row fieldset span label {
+    float:none;
+    display:inline;
+}
+div.row fieldset legend {
+    font-weight:bold;
+}
+div.requiredRow {
+    border:2px solid black;
+}
