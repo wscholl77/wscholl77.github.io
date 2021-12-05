@@ -1,4 +1,5 @@
 # wscholl77.github.io
+# UMGC Web Development
 ## Program & Career Exploration - PACE110A  
 ## Intro Interactive Design - CMST290  
 ## Fundamentals of Digital Media - CMST295  
