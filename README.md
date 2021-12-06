@@ -1,14 +1,12 @@
 # wscholl77.github.io
-# UMGC Web Development
-## Intro Interactive Design - CMST290  
-### [Project 2](https://wscholl77.github.io/Project2a/project2JSstep10.html)
-## Fundamentals of Digital Media - CMST295  
+# UMGC Web Development 
 ## Principles of Web Design & Tech I - CMST385  
+### [Project 1](https://wscholl77.github.io/cmst385/Project1/index.html)
+### [Project 3](https://wscholl77.github.io/cmst385/Project3/index.html)
+### [Project 4](https://wscholl77.github.io/cmost385/Project4/index.html)
 ## Principles of Web Design & Tech II - CMST386  
-### [Project 1](https://wscholl77.github.io/Project1/index.html)
-## Concepts & Applications of IT - IFSM201  
-## Image Editing - CMST325  
+### [Project 1](https://wscholl77.github.io/Project1/index.html) 
 ## Fundamentals of Javascript - CMST388  
+## Web Development using XML - CMST450  
 ## Advanced JavaScript - CMST488  
-## Intro Problem Solving & Algorithm Design - CMIS102  
 ## Web Development using XML - CMST450  
