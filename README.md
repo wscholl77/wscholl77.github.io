@@ -6,8 +6,8 @@
 ### [Project 3](https://wscholl77.github.io/cmst385/project4/index.html)  
 ## Principles of Web Design & Tech II - CMST386  
 ### [Project 1](https://wscholl77.github.io/cmst386/wwwroot/project1/gallery.html)  
-### [Project 2](https://wscholl77.github.io/cmst386/wwwroot/project2/project2.html)  
-### [Project 3](https://wscholl77.github.io/cmst386/wwwroot/project3/preprocessing.html)  
+### [Project 2](https://wscholl77.github.io/cmst386/wwwroot/project3/preprocessing.html)  
+### [Project 3](https://wscholl77.github.io/cmst386/wwwroot/project4/home.html)  
 ### [Project 4](https://wscholl77.github.io/cmst386/wwwroot/index.html)
 ## Fundamentals of Javascript - CMST388  
 ### [Project 1](https://wscholl77.github.io/cmst388/Project1/index.html)  
