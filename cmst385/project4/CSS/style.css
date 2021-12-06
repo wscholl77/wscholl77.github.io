@@ -1,0 +1,132 @@
+h1 {
+  color: maroon;
+  font: 16pt Verdana, Arial, sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+h2 {
+  color: maroon;
+  font: 12pt Verdana, Arial, sans-serif;
+  text-align: center;
+}
+p {
+  color: blue;
+  font: 10pt Verdana, Arial, sans-serif;
+  text-align: left;
+  margin: 0px
+}
+body {
+  font: 12pt Verdana, Arial, sans-serif;
+  background-color: white;
+}
+ul.topnav {
+  list-style-type: none;
+  margin: auto;
+  padding: 0px;
+  overflow: hidden;
+  background-color: white;
+  float: right;
+}
+ul.topnav li {
+  border-right: 1px solid #bbb;
+  display: inline;
+}
+ul.topnav li a {
+  display: inline;
+  color:maroon;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ul.topnav li a:hover:not(.active) {
+  background-color: rgb(32, 204, 32);
+}
+ul.topnav li a.active {
+  background-color: rgb(32, 204, 32);
+}
+.container {
+  position: relative;
+  width: 80%;
+  height: 200px;
+  margin-left: 0px;
+  margin-top: 5px;
+  float: right;
+}
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: white;
+  color: maroon;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  text-align: center;
+}
+#myfooter {
+  color: maroon;
+  font: 8pt Verdana, Arial, sans-serif;
+  margin-top: 50px;
+  margin-right: 500px;
+  text-align: center;
+  font-weight: bolder;
+  padding: 30px;
+  float: right;
+}
+footer {
+  color: maroon;
+  font: 8pt Verdana, Arial, sans-serif;
+  margin-top: 20px;
+  text-align: center;
+  font-weight: bolder;
+}
+header {
+  color: maroon;
+  font: 8pt Verdana, Arial, sans-serif;
+}
+.logo{
+  width:150px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 7px;
+  margin-left: 5px;
+  margin-bottom: 1px;
+  float:left;
+}
+table, th, td {
+  border: 1px solid blue;
+  border-collapse: collapse;
+  text-align: center;
+  margin-top: 20px;
+  color: blue;
+  font: 10pt Verdana, Arial, sans-serif;
+}
+ul {
+  color: blue;
+  font: 10pt Verdana, Arial, sans-serif;
+}
+ol {
+  color: blue;
+  font: 10pt Verdana, Arial, sans-serif;
+}
+.img1 {
+  float: right;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.column {
+  float: left;
+  padding: 15px;
+}
+.leftside {
+  width: 15%;
+}
+* {
+  box-sizing: border-box;
+}
