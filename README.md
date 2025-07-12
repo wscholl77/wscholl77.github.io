@@ -21,4 +21,4 @@
 # Tufco SOP
 ### [Dock Lock](https://wscholl77.github.io/SOP/index.html)
 # Lindsey
-### [Lindsey] (https://wscholl77.github.io/Lindsey/index.html)
+### [Lindsey](https://wscholl77.github.io/Lindsey/index.html)
